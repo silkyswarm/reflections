@@ -1,3 +1,4 @@
+git config		:git config --global core.editor "subl -n -w"
 git log
 git status
 git commit
