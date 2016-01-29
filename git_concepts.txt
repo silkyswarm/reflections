@@ -1,0 +1,8 @@
+version control system	:to track changes, bugs, backups
+repository		:project container with all commits
+add			:adds file to staging area
+commit			:commits staging area to repository
+clone			:can clone someone else's repository
+diff			:to compare two commits
+checkout		
+branch
