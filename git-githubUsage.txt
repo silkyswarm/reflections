@@ -1,3 +1,6 @@
 Github can be used to push/pull repositories.
 Push will update the cloud repository from the local one.
 Pull will update the local one if the cloud one is more updated.
+Cloning within Github is called Forking
+  Repos forked from get recognition in terms of a +1 on their forking counter.
+  From a forked repository, local cloning can be made by different users and collaborative work can take place.
