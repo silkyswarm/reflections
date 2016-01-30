@@ -1,0 +1,3 @@
+Github can be used to push/pull repositories.
+Push will update the cloud repository from the local one.
+Pull will update the local one if the cloud one is more updated.
