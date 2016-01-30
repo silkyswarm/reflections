@@ -1,7 +1,12 @@
 git config		:git config --global core.editor "subl -n -w"
 git log
+git log --graph --oneline
 git status
 git commit
+git merge master another
 git clone
 git init
 git add
+git diff
+git diff --staged
+git push origin master

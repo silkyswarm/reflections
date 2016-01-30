@@ -4,5 +4,8 @@ add			:adds file to staging area
 commit			:commits staging area to repository
 clone			:can clone someone else's repository
 diff			:to compare two commits
-checkout		
-branch
+checkout		:checkout one of your branches to edit it		
+branch			:a version of the code, master is the default one
+merge			:to merge two branches
+reachability		:each commit has a pointer to its parent
+push 			:to push a branch onto github
